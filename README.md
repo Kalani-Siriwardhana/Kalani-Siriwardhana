@@ -1,5 +1,5 @@
 # Kalani Siriwardhana
-#### Self Learner | Sports Analytics Enthusiastic
+
 I'm Kalani from Sri Lanka and I am a Physical Science graduate who is a Self- Learner in Data Science and Sports analytics. Through my experiences as an athlete I have developed a strong passion for the intersection of data science and sports. 
 
 
