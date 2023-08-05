@@ -38,6 +38,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/kalani-siriwardhana-76136818a"><img alt="LinkedIn" src="https://linkedin.com/in/kalani-siriwardhana-76136818a-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://linkedin.com/in/kalani-siriwardhana-76136818a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kalani-siriwardhana-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:kalanisugandhika@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kalanisugandhika@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
