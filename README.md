@@ -37,8 +37,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://linkedin.com/in/kalani-siriwardhana-76136818a-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-kalanisugandhika@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://linkedin.com/in/kalani-siriwardhana-76136818a"><img alt="LinkedIn" src="https://linkedin.com/in/kalani-siriwardhana-76136818a-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:kalanisugandhika@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kalanisugandhika@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Kalani-Siriwardhana](https://github.com/Kalani-Siriwardhana)
