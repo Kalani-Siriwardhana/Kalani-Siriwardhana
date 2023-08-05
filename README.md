@@ -20,7 +20,6 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -37,8 +36,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/kalani-siriwardhana-76136818a"><img alt="LinkedIn" src="https://linkedin.com/in/kalani-siriwardhana-76136818a-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://linkedin.com/in/kalani-siriwardhana-76136818a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kalani-siriwardhana-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://linkedin.com/in/kalani-siriwardhana-76136818a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kalani-siriwardhana-76136818a-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:kalanisugandhika@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kalanisugandhika@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
