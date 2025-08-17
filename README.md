@@ -3,10 +3,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 🤔 &nbsp; Developed a strong passion for the intersection of data science and sports.
-- 🎓 &nbsp; Studied Mathematics, Industrial Mathematics and Physics at the University of Ruhuna, Sri Lanka.
+- 🎓 &nbsp; Earned a Bachelor of Science in Mathematics, Industrial Mathematics, and Physics from the University of Ruhuna, Sri Lanka.
 - 📚 &nbsp; Currently pursuing a Master's in Advanced and Computational Mathematics with a specialization in Data Science at TU Chemnitz, Germany.
 - 💼 &nbsp; Worked as an Associate Data Science Engineer.
-- 🌱 &nbsp; Self-learning more about Data Science Basics, Sports Analytics.
+- 🌱 &nbsp; Self-learning more about Data Science Basics and Sports Analytics.
+
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
