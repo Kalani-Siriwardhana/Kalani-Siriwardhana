@@ -2,10 +2,10 @@
 <h2> Hey there! I'm Kalani from SriLanka.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
+- 📚 &nbsp; Currently pursuing a Master's in Advanced and Computational Mathematics with a specialization in Data Science at TU Chemnitz, Germany.
 - 🤔 &nbsp; developed a strong passion for the intersection of data science and sports.
 - 🎓 &nbsp; Studied Mathematics, Industrial Mathematics and Physics at the University of Ruhuna, Sri Lanka.
-- 💼 &nbsp; Working as an Associate Data Science Engineer.
+- 💼 &nbsp; Worked as an Associate Data Science Engineer.
 - 🌱 &nbsp; Self Learning more about Data Science Basics, Sports Analytics.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
